@@ -15,7 +15,7 @@ Looking forward to be mob programming with you.
 | Day | Time | Description | 
 |---|---|---|
 | 15/04/2020 | 6:00 PM - 8:00 PM UTC | Remote Code Dojo. in this code dojo we'll pair up remotely, and work our way through the same code kata, sharing our progress at the end if we choose. [Learn more](https://www.meetup.com/Coronadojo/events/269969736/). |
-| 17/04/2020 | 10:00 MDT | PubMob 3. [Learn more](https://twitter.com/jlangr/status/1248678642722279425). |
+| 17/04/2020 | 4:00 PM UTC | PubMob 3. [Learn more](https://twitter.com/jlangr/status/1248678642722279425). |
 | 24/04/2020 | 00:00 AM – 01:30 AM UTC | A free remote mob programming session on for less-experienced developers to practice the Prime Factors kata with TDD, Kotlin, JUnit5. [Learn more](https://neopragma.com/product/free-remote-mob-programming-session-23-april-utc-0000/). |
 | 25/04/2020 | 12:00 PM – 7:00 PM UTC | Across the ocean and the internet, we will join the Munich Software Craft Community to bring you something new, a "Mob Retreat Day". [Learn more](https://www.eventbrite.com/e/joint-mob-retreat-day-with-munich-software-craft-community-tickets-102532056140). |
 | 05/05/2020 | 4:00 PM - 6:00 PM UTC |  Coding Dojo: Code as a System. [Learn more](https://www.meetup.com/Softwerkskammer-Rhein-Neckar/events/269950042/). |
