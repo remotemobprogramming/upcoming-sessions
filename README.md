@@ -14,6 +14,7 @@ Looking forward to be mob programming with you.
 
 | Day | Time | Description | 
 |---|---|---|
+| 24/04/2020 | 4:00 PM UTC | PubMob 5. [Learn more](https://twitter.com/jlangr/status/1252356267961536514). Refactor & test drive via Zoom and git handover. |
 | 15/04/2020 | 6:00 PM - 8:00 PM UTC | Remote Code Dojo. in this code dojo we'll pair up remotely, and work our way through the same code kata, sharing our progress at the end if we choose. [Learn more](https://www.meetup.com/Coronadojo/events/269969736/). |
 | 16/04/2020 | 9:00 PM - 11 PM UTC | Free Remote Mob Programming session with Woody Zuill. [Learn more](https://twitter.com/WoodyZuill/status/1250841603821858820?s=20). |
 | 17/04/2020 | 4:00 PM UTC | PubMob 3. [Learn more](https://twitter.com/jlangr/status/1248678642722279425). |
