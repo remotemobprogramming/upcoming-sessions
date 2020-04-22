@@ -1,4 +1,4 @@
-# Remote mob programming sessions
+# Upcoming remote mob programming sessions
 
 These past couple of weeks I've participated in several [remote mob programming sessions](https://mobprogramming.org), many of them facilitated by [Woody Zuill](https://twitter.com/woodyzuill/) himself. I've learned plenty of cool stuff in those sessions and they have [profoundly influenced the way I think about software development](https://www.togetherwecode.com/articles/remote-team-failure-mob-programming-rescue/). Now I'm hungry for more!
 
