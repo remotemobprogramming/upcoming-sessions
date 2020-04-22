@@ -15,6 +15,7 @@ Looking forward to be mob programming with you.
 
 | Day | Time | Description | 
 |---|---|---|
+| 22/04/2020 | 4:00 PM PDT | Free Remote #MobProgramming session with Woody Zuill. [Learn more](https://twitter.com/WoodyZuill/status/1252982674685227012) |
 | 24/04/2020 | 4:00 PM UTC | PubMob 5. [Learn more](https://twitter.com/jlangr/status/1252356267961536514). Refactor & test drive via Zoom and git handover. |
 | 24/04/2020 | 00:00 AM – 01:30 AM UTC | A free remote mob programming session on for less-experienced developers to practice the Prime Factors kata with TDD, Kotlin, JUnit5. [Learn more](https://neopragma.com/product/free-remote-mob-programming-session-23-april-utc-0000/). |
 | 25/04/2020 | 12:00 PM – 7:00 PM UTC | Across the ocean and the internet, we will join the Munich Software Craft Community to bring you something new, a "Mob Retreat Day". [Learn more](https://www.eventbrite.com/e/joint-mob-retreat-day-with-munich-software-craft-community-tickets-102532056140). |
