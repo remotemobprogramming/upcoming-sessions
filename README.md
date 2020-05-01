@@ -18,7 +18,7 @@ Looking forward to be mob programming with you.
 | 05/05/2020 | 4:00 PM - 6:00 PM UTC |  Coding Dojo: Code as a System. [Learn more](https://www.meetup.com/Softwerkskammer-Rhein-Neckar/events/269950042/). |
 | 07/05/2020 | 11:00 PM - 00:00 AM UTC | Mob Programming with remote Team, Loudoun Agile Network. [Learn more](https://www.meetup.com/Loudoun-Agile-Network/events/269939611/?_xtd=gqFyqDIxNDY1NjQxoXCmaXBob25l&from=ref). |
 | 09/05/2020 | 12:30 PM - 9:30 PM UTC | We mob program, switching who is driving every so many minutes, usually 5-7 minutes. This keeps everyone alert and works well for up to about 8 people. Past that and we break off into more than one mob. [Learn more](https://www.eventbrite.com/e/code-craftsman-saturdays-remote-tickets-86994443723?aff=ebdssbonlinesearch). |
-
+| 14/05/2020 | 5:00 PM – 6:30 PM UTC | A free mob programming session to practice the Prime Factors code kata in Kotlin. [Learn more](https://neopragma.com/product/free-remote-mob-programming-session-14-may-utc-1700/). |
 
 
 ## Previous sessions
